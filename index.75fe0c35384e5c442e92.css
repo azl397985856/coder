@@ -1309,74 +1309,82 @@ a {
   list-style: none;
   padding: 0;
   margin: 0;
-  height: 4rem;
+  height: 3.6rem;
 }
 .achievement0___1msv0 {
   width: 33.3%;
   display: inline-block;
   background: #8966b1;
-  height: 4rem;
+  height: 3.6rem;
   padding: 0.3rem 0;
   vertical-align: bottom;
+  font-size: 0.24rem;
 }
 .achievement1___eF8Hc {
   width: 33.3%;
   display: inline-block;
   background: #47a9ca;
-  height: 4rem;
+  height: 3.6rem;
   padding: 0.3rem 0;
   vertical-align: bottom;
+  font-size: 0.24rem;
 }
 .achievement2___1j4OF {
   width: 33.3%;
   display: inline-block;
   background: #df6260;
-  height: 4rem;
+  height: 3.6rem;
   padding: 0.3rem 0;
   vertical-align: bottom;
+  font-size: 0.24rem;
 }
 .cardDiv___2KFp4 {
   background: #f5eded;
-  padding: 0.2rem 0.4rem;
+  padding: 0.2rem .2rem;
   color: #38adff;
 }
 .cards___3bwB- {
   width: 48%;
   display: inline-block;
-  padding: 0.2rem 1%;
+  padding: .2rem 1%;
 }
 .fig0___1gCfO {
-  width: 3.28rem;
-  height: 2.65rem;
+  width: 2.7rem;
+  height: 2.2rem;
   background-size: 100% 100%;
   margin: auto;
   background-image: url(/coder/static/a1.4f3df123.png);
+  margin-bottom: .20rem;
 }
 .fig1___2Xlaj {
-  width: 3.28rem;
-  height: 2.65rem;
+  width: 2.7rem;
+  height: 2.2rem;
   background-size: 100% 100%;
   margin: auto;
   background-image: url(/coder/static/a2.e239541c.png);
+  margin-bottom: .20rem;
 }
 .fig2___Dbv3P {
-  width: 3.28rem;
-  height: 2.65rem;
+  width: 2.7rem;
+  height: 2.2rem;
   background-size: 100% 100%;
   margin: auto;
   background-image: url(/coder/static/a3.d9325d0f.png);
+  margin-bottom: .20rem;
 }
 .blue___1BAFp {
   color: #38adff;
 }
 .cardTitle___1CL4G {
   text-align: left;
+  font-size: .32rem;
   color: black;
-  margin-bottom: 0.2rem;
+  margin-bottom: .2rem;
 }
 .cardDetail___35WRQ {
   text-align: left;
-  color: black;
+  font-size: .24rem;
+  color: #484848;
 }
 .leftFloat___2e_3e {
   width: 100%;
@@ -1385,7 +1393,10 @@ a {
   border-bottom: 0.02rem solid #38adff;
   width: 5rem;
   margin: auto;
-  margin-top: 0.8rem;
-  margin-bottom: 0.4rem;
-  padding-bottom: 0.2rem;
+  margin-top: .6rem;
+  margin-bottom: .2rem;
+  padding-bottom: .2rem;
+}
+.tableWrapper___2Q0A4 {
+  font-size: .24rem;
 }
